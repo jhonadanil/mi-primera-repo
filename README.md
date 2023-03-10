@@ -1,4 +1,4 @@
-# Título del proyecto
+# Título del proye
 
 Breve descripción del proyecto. :smile:
 
